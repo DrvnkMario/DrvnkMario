@@ -15,3 +15,4 @@ I am interested in networking and DevOps.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50"/>
  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venrofi&show_icons=true&locale=en&layout=compact&theme=dark" alt="DrvnkMario" /></p>
