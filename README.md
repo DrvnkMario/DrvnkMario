@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Marian</h1>
-Currently I'm pursuing a bachelor of engineering degree at Politechnika Śląska in Gliwice.
+Currently I'm pursuing a bachelor of engineering degree at Silesian University of Technology.
 I am interested in networking and DevOps.
 
 <h3 align="left"> Languages and Tools: </h3>
